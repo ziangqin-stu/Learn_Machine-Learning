@@ -1,2 +1,8 @@
 # Learn_Machine-Learning
-study ML and record here.
+Study ML and record here.
+
+* Course & Reading Notes
+* Programming Exercises
+* Interview Questions
+* Potential Practice Projects
+* ...
